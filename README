@@ -1,9 +1,9 @@
-This is an user backend plungin for OwnCloud. It connect OwnCloud with the Redmine user and group management.
+This is an user backend plugin for OwnCloud (https://owncloud.org). It connects OwnCloud with the Redmine user and group management.
 
-Functions:
+Features:
 - authentication with Redmine username and password
 - connection to any MySQL database, on any port
-- full display names in OwnCloud (firstname + lastname)
+- full display names in OwnCloud (firstname and lastname)
 - sharing files to Redmine groups
 
 Installation:
